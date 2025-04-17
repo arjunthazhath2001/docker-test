@@ -9,3 +9,10 @@
 - npx prisma migrate dev
 - npx prisma generate
 - npm run dev
+
+
+# Docker Installation
+
+
+
+# Docker Compose Installation
